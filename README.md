@@ -59,3 +59,4 @@ All of the following projects use latest version(currently 3.16) of the HERE Mob
 * [Search](search) - Send different types of search requests
 * [AutoSuggest](autoSuggest) - Send different types of AutoSuggest requests
 * [Turn-by-Turn Navigation](turn-by-turn-navigation) - Trigger a turn-by-turn navigation from HERE Burnaby office to Langley BC
+Trigger 1
